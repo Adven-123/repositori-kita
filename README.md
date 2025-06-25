@@ -5,8 +5,8 @@ Repositori ini adalah project Laravel untuk praktikum **Aplikasi Berbasis Web II
 ## 👨‍💻 Identitas
 
 - **Nama:** Adven Sianturi  
-- **NPM:** 12345678  
-- **Kelas:** TI-XX
+- **NPM:** 228160086
+- **Kelas:** A2 Informatika
 
 ## 📦 Fitur
 
